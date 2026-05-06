@@ -10,7 +10,7 @@ while numero < 30:
 
 
 nombre = len("Ricardo")
-print("al palabra Ricardo tiene: " + str(nombre) + " Craacteres")
+print("al palabra Ricardo tiene: " + str(nombre) + " Craacteres") aa
 
 
 

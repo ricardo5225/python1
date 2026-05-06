@@ -38,5 +38,6 @@ elif respuesta == 5:
     pote1 **= float(input("-Ingrese el segundo numero: "))
     print("\n- EL RESULTADO DE LA POTENCIA ES: " + str(pote1))
 else:
-    print("Opcion no válida")
-
+    """ hOLA """
+    print("Opcion no válida")  
+""" HOLA MUNDO """
